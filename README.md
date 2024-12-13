@@ -13,4 +13,6 @@ for logistic growth: N(t) = K = 60000000207
 Thus the population under exponential growth is much larger than the population under logistic growth.
 
 Q3:
+please see Q3 plot.png in the repo
+(https://github.com/Assignments-Only/logistic_growth/blob/main/Q3%20plot.png)
 
